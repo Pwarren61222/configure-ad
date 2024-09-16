@@ -36,7 +36,7 @@ In this step I created the Virtual machine and subnet,and the domain controller 
 <br />
 
 <p>
-<img src="https://imgur.com/dV9dXvZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/cMa7owj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Here I set the Domain Controllers NIC IP address to static so it does not change and so that the client computer can actually join the Domain and it will use the Domain Controller as it's DNS server.I manually set the client computer to do this so that the DNS server did not create a random IP address for the client computer. 
