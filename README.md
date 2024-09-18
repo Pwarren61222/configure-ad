@@ -20,10 +20,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 <h2>High-Level Deployment and Configuration Steps</h2>
 
-- Create Vm and resources in Azure
+- Create Virtual Machine and Resources in Azure
 - Ensure Connectivity between client and Domain Controller
 - Install Active Directory
-- Create admin and normal user account in Active Directory
+- Create Admin and normal user account in Active Directory
 
 <h2>Deployment and Configuration Steps</h2>
 
@@ -31,7 +31,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://imgur.com/3aIF852.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In this step I created the Virtual machine and subnet,and the domain controller Vm(using windows server) named DC-1. I also created the client computer VM(Window 10)"Client-1."
+In this step I created the Virtual machine and subnet, and the domain controller VIrtuak Machine(using windows server) named DC-1. I also created the client computer VM(Window 10)"Client-1."
 </p>
 <br />
 
